@@ -10,7 +10,7 @@ em Ciência de Dados. Atualmente procuro minha sonhada transição de carreira p
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosPedro09&repo=effod.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CarlosPedro09&repo=effod&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens utilizadas
